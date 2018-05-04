@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbc2d365-e936-4b18-b591-f285b3ca673c" name="Default" comment="" />
+    <list default="true" id="dbc2d365-e936-4b18-b591-f285b3ca673c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jogo/gato.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jogo/ponto.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jogo/gato.py" afterPath="$PROJECT_DIR$/jogo/gato.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jogo/jogo.py" afterPath="$PROJECT_DIR$/jogo/jogo.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,25 +17,45 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="teste.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/teste.py">
+      <file leaf-file-name="jogo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jogo/jogo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="87">
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gato.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gato.py">
+      <file leaf-file-name="ponto.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jogo/ponto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="8" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="38" />
+            <state relative-caret-position="129">
+              <caret line="3" column="18" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gato.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jogo/gato.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1525476090148" expanded="true" signature="297:440" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gato.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jogo/gato.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -62,6 +88,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -71,6 +100,9 @@
         <option value="$PROJECT_DIR$/prova.py" />
         <option value="$PROJECT_DIR$/gato.py" />
         <option value="$PROJECT_DIR$/teste.py" />
+        <option value="$PROJECT_DIR$/jogo/gato.py" />
+        <option value="$PROJECT_DIR$/jogo/ponto.py" />
+        <option value="$PROJECT_DIR$/jogo/jogo.py" />
       </list>
     </option>
   </component>
@@ -80,6 +112,7 @@
     <option name="width" value="1004" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -95,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,19 +136,31 @@
               <item name="teste" type="b2602c69:ProjectViewProjectNode" />
               <item name="teste" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="teste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teste" type="462c0819:PsiDirectoryNode" />
+              <item name="jogo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/python.exe" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="SearchEverywhereHistoryKey" value="present&#9;ACTION&#9;TogglePresentationMode&#10;new&#9;ACTION&#9;NewGroup&#10;presenta&#9;ACTION&#9;TogglePresentationMode&#10;font&#9;ACTION&#9;EditorIncreaseFontSize&#10;font &#9;ACTION&#9;EditorIncreaseFontSize&#10;presen&#9;ACTION&#9;TogglePresentationMode&#10;prese&#9;ACTION&#9;TogglePresentationMode" />
+    <property name="SearchEverywhereHistoryKey" value="presen&#9;ACTION&#9;TogglePresentationMode&#10;present&#9;ACTION&#9;TogglePresentationMode&#10;new&#9;ACTION&#9;NewGroup&#10;presenta&#9;ACTION&#9;TogglePresentationMode&#10;font&#9;ACTION&#9;EditorIncreaseFontSize&#10;font &#9;ACTION&#9;EditorIncreaseFontSize&#10;prese&#9;ACTION&#9;TogglePresentationMode" />
     <property name="full.screen.before.presentation.mode" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADSI\PycharmProjects\teste\jogo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADSI\PycharmProjects\teste\jogo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.teste">
+  <component name="RunManager" selected="Python.jogo">
     <configuration name="Pessoa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,6 +188,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="teste" />
       <option name="SCRIPT_NAME" value="C:\Users\ADSI\PycharmProjects\teste\Entidades.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="jogo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jogo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teste" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jogo/jogo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,23 +255,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="teste" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ADSI\PycharmProjects\teste\jogo\jogo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.sort" />
       <item index="1" class="java.lang.String" itemvalue="Python.Pessoa" />
       <item index="2" class="java.lang.String" itemvalue="Python.teste" />
       <item index="3" class="java.lang.String" itemvalue="Python.prova" />
+      <item index="4" class="java.lang.String" itemvalue="Python.jogo" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.teste" />
-        <item index="1" class="java.lang.String" itemvalue="Python.prova" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Pessoa" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sort" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.jogo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.teste" />
+        <item index="2" class="java.lang.String" itemvalue="Python.prova" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Pessoa" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sort" />
       </list>
     </recent_temporary>
   </component>
@@ -230,15 +295,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24081632" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24591836" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5520833" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5518732" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.63256484" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63256484" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -257,11 +323,11 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55331415" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63278687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24081632" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5518732" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63256484" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24591836" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -279,13 +345,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/teste.py">
+    <entry file="file://$PROJECT_DIR$/jogo/jogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prova.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogo/gato.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1525476090148" expanded="true" signature="297:440" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogo/jogo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -306,14 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prova.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
@@ -322,21 +413,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teste.py">
+    <entry file="file://$PROJECT_DIR$/jogo/gato.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="43">
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogo/gato.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+            <marker date="1525476090148" expanded="true" signature="297:440" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gato.py">
+    <entry file="file://$PROJECT_DIR$/jogo/ponto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="129">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="3" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogo/jogo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
