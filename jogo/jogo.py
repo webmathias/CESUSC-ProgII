@@ -11,11 +11,10 @@ gatos = [
     Gato(canvas, random.randint(0,800), random.randint(0,800))
 ]
 ultimoClick = Ponto(0,0)
+#Função de callback para quando clicar com o Mouse
 def callback(event):
-    print(dir(event))
-    gatos.append(
-        Gato(canvas, event.x,event.y)
-    )
+    ultimoClick.x = event.x
+    ultimoClick.y = event.y
 
 canvas.bind("<Button-1>", callback)
 ultimoTempo = time.time()

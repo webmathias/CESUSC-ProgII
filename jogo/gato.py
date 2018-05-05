@@ -10,7 +10,7 @@ class Gato:
         #    x,y,x+10, y+10, fill="#66FF66")
         self.x = x
         self.y = y
-        self.vel = 50;
+        self.vel = 10;
 
     def update(self, canvas, diffTime, ultimoClick):
         angulo = math.atan2(
